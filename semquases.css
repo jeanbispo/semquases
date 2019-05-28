@@ -1732,6 +1732,7 @@ margin-right:10px;
     font-family: Open Sans;
     color: #FFFFFF;
 	background: #c3c3c3;
+	white-space: pre;
 }
 
 .post-header .bg-category .category-name::before, .post-header .bg-category .category-name::after {
