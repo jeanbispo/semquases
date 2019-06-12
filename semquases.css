@@ -1394,6 +1394,15 @@ margin-top: 20px;
     	padding-left: 45px; */
 }
 
+@media only screen and (max-width: 767px){
+	.comment {
+		padding: 1em 30px 3em 30px;	
+	}
+	.comment-replies .comment{
+		padding: 0;
+	}
+}
+
 .comments {
 	margin-bottom:40px;
 	text-align: left;
