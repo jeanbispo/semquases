@@ -4575,19 +4575,20 @@ cite.user > a {
 
 
 article.notfirstpost {
-    position: relative;
     display: inline;
-    background: url(endereço-da-sua-imagem) no-repeat;
-    width: 45%;
-    height: 450px;
+    width: 50%;
     float: left;
-    margin: 5px 10px 15px;
-    border: 1px solid #ddd;
     letter-spacing: 0px;
     font-size: 12px;
     line-height: 1.4em;
     text-align: justify;
+}
+
+.notfirstpost_content {
+    margin: 5px 10px 15px;
     background: #fff;
+    border: 1px solid #ddd;
+    height: 450px;
 }
 
 article.notfirstpost img.blogger-post-thumbnail{
