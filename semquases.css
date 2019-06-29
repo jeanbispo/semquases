@@ -511,6 +511,12 @@ span.smg-label {
     padding: 0 !important;
     margin-left: -50px;
 }
+
+.post-entry .YOUTUBE-iframe-video {
+    width: 827px;
+    padding: 0 !important;
+    margin-left: -50px;
+}
 	
 	.post-entry p {
 		margin-bottom:20px;
