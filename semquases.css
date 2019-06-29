@@ -4686,3 +4686,8 @@ background:#66bbdd; /* ---cor de fundo--*/
 border-radius:5px;-moz-border-radius:5px;
 -webkit-border-radius:5px;}
 article.notfirstpost #showlink a {color: #ffffff;/* escolha a cor de seu link */}
+
+article.notfirstpost .tagpaginacao{display: none;}
+article.notfirstpost .meta-divider{display: none;}
+.tagpaginacao{display: none;}
+.areapost .meta-divider{display: none;}
