@@ -4024,7 +4024,7 @@ display:none;
 	.post-entry .YOUTUBE-iframe-video {
 	    max-width: 320px;
 	    margin-left: -48px;
-	    height: 200px !important;
+	    min-height: 200px !important;
 	}
 	
 	.post-image img {
