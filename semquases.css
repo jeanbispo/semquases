@@ -4022,8 +4022,9 @@ display:none;
     	margin-left: -40px;
 	}
 	.post-entry .YOUTUBE-iframe-video {
-   		max-width:320px;	
-   		margin-left: -40px;
+	    max-width: 320px;
+	    margin-left: -48px;
+	    height: 200px !important;
 	}
 	
 	.post-image img {
