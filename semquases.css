@@ -516,7 +516,7 @@ span.smg-label {
     width: 827px;
     padding: 0 !important;
     margin-left: -50px;
-/*     min-height: 500px; */
+    min-height: 500px;
 }
 	
 	.post-entry p {
