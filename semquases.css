@@ -4609,6 +4609,7 @@ article.notfirstpost .blogger-post-thumbnail{
 width: 100%;
 height: 240px;
 background-size: cover;
+background-position: center;
 }
 
 
