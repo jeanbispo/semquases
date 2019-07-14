@@ -4605,9 +4605,10 @@ article.notfirstpost {
     height: 450px;
 }
 
-article.notfirstpost img.blogger-post-thumbnail{
+article.notfirstpost .blogger-post-thumbnail{
 width: 100%;
 height: 240px;
+background-size: cover;
 }
 
 
