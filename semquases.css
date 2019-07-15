@@ -518,6 +518,9 @@ span.smg-label {
     margin-left: -50px;
     min-height: 500px;
 }
+.fluid-width-video-wrapper{
+	margin-bottom: 10%;
+}
 	
 	.post-entry p {
 		margin-bottom:20px;
