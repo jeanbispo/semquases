@@ -606,10 +606,10 @@ span.smg-label {
 
 	/*** Post Share ***/
 	.post-share {
-		text-align:center;
-		margin-top:40px;
-		margin-bottom:100px;
-		background:url(http://1.bp.blogspot.com/-RaxSFprHuWw/U-eh4Hd6OgI/AAAAAAAAAP0/sijBcrNVTjo/line.gif) repeat-x center center;
+		    text-align: center;
+		    margin-top: 40px;
+		    margin-bottom: 100px;
+		    padding-bottom: 20px;
 	}
 	.post-share a {
 		display:inline-block;
